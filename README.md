@@ -4,7 +4,7 @@
 
 &nbsp;
 
-I'm Kavya, an aspiring Data Scientist! I strive to make an impact in the healthcare industry through the transformative power of big data. 
+I'm Kavya, an aspiring Data Scientist! I strive to make an impactthrough the transformative power of big data. 
 
 🎓 I'm currently studying **Data Science & Economics** at UCLA with a minor in **Bioinformatics**
 
