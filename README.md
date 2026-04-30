@@ -1,9 +1,5 @@
 ## Hello There 👋
 
-<img width="1381" height="500" alt="kdgithubbanner" src="https://github.com/user-attachments/assets/70b4bac8-8ec4-4c4d-a330-f20e76dd877f" />
-
-&nbsp;
-
 I'm Kavya, an aspiring Data Scientist! I strive to make an impact through the transformative power of big data. 
 
 🎓 I'm currently studying **Data Science & Economics** at UCLA with a minor in **Bioinformatics**
